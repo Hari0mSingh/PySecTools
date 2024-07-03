@@ -1,0 +1,21 @@
+Intro. to Python for pentesting : Book
+--------------------------------------
+Truth
+----- =
+Remember, the difference between script kiddies and professionals is the difference between merely using other people’s tools and writing your own.
+
+Chapter 1. Setting Up Your Python Environment
+---------------------------------------------
+Kali, IDE{WingIDE} for Python, vmware {windows 7,xp}
+sudo apt-get install python3-pip
+pip install github3.py
+
+┌──(hariom㉿Hariom)-[~]
+└─$ python                
+Python 3.1.9 (main, Apr 10 2024, 13:16:36) [GCC 13.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import github3
+>>> exit()
+
+
+
