@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------
+Chapter 2. The Network: Basics 
+------------------------------ 
+This chapter will give you some basics on Python networking using the socket[5] module. Along the
+way, we’ll build clients, servers, and a TCP proxy; and then turn them into our very own netcat,
+complete with command shell. This chapter is the foundation for subsequent chapters in which we
+will build a host discovery tool, implement cross-platform sniffers, and create a remote trojan
+framework. Let’s get started
+
+Python Networking in a Paragraph
+--------------------------------
+Module => socket
+his module exposes all of the necessary pieces to quickly write TCP and UDP clients and servers, use raw sockets, and so forth. For the purposes of
+breaking in or maintaining access to target machines, this module is all you really need.
+
+
+TCP Client => tcpClient.py
+
+UDP Client => udpClient.py
