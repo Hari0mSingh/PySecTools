@@ -13,7 +13,21 @@ Module => socket
 his module exposes all of the necessary pieces to quickly write TCP and UDP clients and servers, use raw sockets, and so forth. For the purposes of
 breaking in or maintaining access to target machines, this module is all you really need.
 
+TCP Client
+---------- => There have been countless times during penetration tests that I’ve needed to whip up a TCP client to test for services, send garbage data, fuzz, or any number of other task
+tcpClient.py
 
-TCP Client => tcpClient.py
+UDP Client
+---------- =>A Python UDP client is not much different than a TCP client; we need to make only two small changes to get it to send packets in UDP form.
+udpClient.py
 
-UDP Client => udpClient.py
+
+Again, we’re not looking to be superior network programmers; we want to be quick, easy, and
+reliable enough to handle our day-to-day hacking tasks. Let’s move on to creating some simple
+servers.
+
+TCP Server => tcpServer.py
+----------
+Let’s start by creating a standard multi-threaded TCP server.
+
+
