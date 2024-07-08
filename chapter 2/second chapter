@@ -31,3 +31,32 @@ TCP Server => tcpServer.py
 Let’s start by creating a standard multi-threaded TCP server.
 
 
+Replacing Netcat 
+----------------
+Netcat is the utility knife of networking, so it’s no surprise that shrewd systems administrators remove it from their systems
+
+build a command-line network utility => CyberCat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
