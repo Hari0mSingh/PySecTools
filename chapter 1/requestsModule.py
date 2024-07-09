@@ -35,7 +35,7 @@ print("\n")
 print(response1.json())
 print('\n')
 
-
+print("Session management")
 # Session management {Create a session object}
 session  = requests.session()
 

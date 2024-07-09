@@ -38,8 +38,14 @@ Netcat is the utility knife of networking, so it’s no surprise that shrewd sys
 build a command-line network utility => CyberCat
 
 
+Building a TCP Proxy => proxy.py
+--------------------
+There are a number of reasons to have a TCP proxy in your tool belt, both for forwarding traffic to
+bounce from host to host, but also when assessing network-based software.
 
 
+SSH with Paramiko
+-----------------
 
 
 

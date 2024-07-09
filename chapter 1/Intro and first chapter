@@ -18,4 +18,133 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> exit()
 
 
+There are four collection data types in the Python programming language:
+------------------------------------------------------------------------
 
+List  =>is a collection which is ordered and changeable. Allows duplicate members.
+----
+
+Tuple => is a collection which is ordered and unchangeable. Allows duplicate members.
+-----
+Set => is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+---
+
+Dictionary => is a collection which is ordered** and changeable. No duplicate members.
+----------
+
+
+*Set items are unchangeable, but you can remove and/or add items whenever you like.
+
+**As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+
+When choosing a collection type, it is useful to understand the properties of that type. Choosing the right type for a particular data set could mean retention of meaning, and, it could mean an increase in efficiency or security.
+
+
+
+==============================================================================================
+                                         Python
+==============================================================================================
+
+1. HTTP Requests
+----------------
+Libraries: requests
+Concepts: Making GET and POST requests, handling response objects, session management.
+
+
+2. File Handling
+----------------
+Libraries: Built-in open()
+Concepts: Reading from and writing to files, handling file paths.
+
+
+3. Error Handling
+-----------------
+Libraries: Built-in try, except, finally
+Concepts: Catching exceptions, logging errors, ensuring clean-up actions.
+
+
+4. Logging
+----------
+Libraries: logging
+Concepts: Setting up logging, different logging levels (INFO, ERROR, etc.), writing logs to files.
+
+
+5. Regular Expressions
+----------------------
+Libraries: re
+Concepts: Pattern matching, searching, extracting specific parts of strings.
+
+
+6. Data Parsing
+---------------
+Libraries: BeautifulSoup (from bs4), json
+Concepts: Parsing HTML responses, extracting specific data, handling JSON responses.
+
+
+7. PDF Generation
+-----------------
+Libraries: reportlab
+Concepts: Creating and formatting PDF documents, adding text and images to PDFs.
+
+
+8. Concurrency and Parallelism
+------------------------------
+Libraries: threading, concurrent.futures
+Concepts: Running multiple scans concurrently, managing threads, ensuring thread safety.
+
+
+9. Web Scraping
+---------------
+Libraries: BeautifulSoup, scrapy (optional)
+Concepts: Extracting information from web pages, navigating through HTML structures.
+
+
+10. Modular Programming
+-----------------------
+Libraries: Built-in import
+Concepts: Organizing code into modules, using __init__.py, importing functions and classes from different files.
+
+
+11. Version Control with Git
+----------------------------
+Concepts: Initializing a repository, committing changes, branching, merging, handling conflicts.
+
+
+12. Using External Libraries
+----------------------------
+Concepts: Installing and managing libraries with pip, understanding documentation for third-party libraries.
+
+
+13. Command Line Interfaces (CLI)
+---------------------------------
+Libraries: argparse
+Concepts: Creating user-friendly command-line interfaces, handling command-line arguments.
+
+
+14. Security Best Practices
+---------------------------
+Concepts: Writing secure code, understanding common vulnerabilities, input validation, sanitizing outputs.
+
+
+15. Networking Basics
+---------------------
+Concepts: Understanding HTTP/HTTPS protocols, understanding URL structures, basic networking concepts like IP addresses and ports.
+
+
+16.  Py Metasploit 3  Library
+
+17. Socket Library
+
+18.  Mechanize Library
+
+19. Yara Library on Python
+
+20. Impacket Library
+
+21. Cryptography Library
+
+22. Pexpect Library
+
+23. Nmap Python Library
+
+24. Impacket
