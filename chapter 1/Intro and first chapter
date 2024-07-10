@@ -1,5 +1,5 @@
-Intro. to Python for pentesting : Book
---------------------------------------
+Intro. to Python for pentesting 
+-------------------------------
 Truth
 ----- =
 Remember, the difference between script kiddies and professionals is the difference between merely using other people’s tools and writing your own.
@@ -147,4 +147,3 @@ Concepts: Understanding HTTP/HTTPS protocols, understanding URL structures, basi
 
 23. Nmap Python Library
 
-24. Impacket
