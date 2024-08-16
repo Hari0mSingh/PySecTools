@@ -1,6 +1,6 @@
 # The provided script demonstrates how to use the mechanize library in Python to interact with a web form programmatically
 
-import mechanize
+import mechanizepip
 
 # Creating a browser object
 br = mechanize.Browser()
